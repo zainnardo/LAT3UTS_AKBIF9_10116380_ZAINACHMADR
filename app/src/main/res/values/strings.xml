@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Lat3</string>
+
+    <string name="ob_header1">SELAMAT DATANG DI APP TERBAIK INI</string>
+    <string name="ob_header2">MUDAH DIGUNAKAN</string>
+    <string name="ob_header3">BERMAINLAH DENGAN TEMAN ANDA</string>
+
+    <string name="ob_desc1">Aplikasi yang membantu anda setiap hari</string>
+    <string name="ob_desc2">Aplikasi sangat simple</string>
+    <string name="ob_desc3">aplikasi yang mengajak teman anda bermain</string>
+
+    <string name="home">Home</string>
+    <string name="daily">Daily</string>
+    <string name="gallery">Gallery</string>
+    <string name="favorite">Favorite</string>
+    <string name="profile">Profile</string>
+
+    <string name="contact">Contact and Social Media</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
